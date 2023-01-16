@@ -25,4 +25,5 @@ MIT License. All rights reserved.
 
 ## Badges
 
+![prework-study-guide](https://img.shields.io/github/languages/count/noahjralph/prework-study-guide?style=plastic)
 ![prework-study-guide](https://img.shields.io/github/languages/top/noahjralph/prework-study-guide?style=plastic)
