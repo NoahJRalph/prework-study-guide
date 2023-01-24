@@ -11,7 +11,7 @@ You can read it, which is nice. Press F12 (Windows) to see some fun text inside 
 
 ## Installation
 
-NA.
+NA. Simply visit this site [here.](https://noahjralph.github.io/prework-study-guide/)
 
 ## Credits
 
