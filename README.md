@@ -2,7 +2,7 @@
 
 ## Description
 
-The study guide and pre-work for my front-end-oriented certification course all rolled into one.
+The study guide and pre-work for my front-end-oriented certification course all rolled into one in website form.
 
 ## Features
 
