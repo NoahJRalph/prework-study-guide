@@ -2,7 +2,7 @@
 
 ## Description
 
-A study guide for course pre-work and other associated works.
+The study guide and pre-work for my front-end-oriented certification course all rolled into one.
 
 ## Features
 
