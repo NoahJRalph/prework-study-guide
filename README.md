@@ -7,7 +7,7 @@ A study guide for course pre-work and other associated works.
 ## Features
 
 A mobile cheatsheet for early-game CSS, JS, HTML, and Git usage.
-You can read it, which is nice. Press F12 (Windows) to see some fun text inside the console tab inside DevTools.
+You can read it, which is nice. Press F12 (Windows) to see some fun text inside the console tab inside DevTools which I was required to implement for my class.
 
 ## Installation
 
